@@ -46,9 +46,6 @@ This mod adds motion blur to Kingdom Hearts 3, enhancing the game's visual exper
 
 Contributions are welcome! If you have suggestions for improvements or have found any bugs, please report them on the [Nexus Mods page](https://www.nexusmods.com/kingdomhearts3/mods/2179).
 
-## License
-
-This project is licensed under the terms specified on the Nexus Mods page. Please refer to the mod's page for more details.
 
 ## Acknowledgements
 
